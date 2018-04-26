@@ -1,0 +1,26 @@
+http://cradpdf.drdc-rddc.gc.ca/PDFS/unc229/p803840_A1b.pdf p 38-80/95
+"Metal objects (ships) tend to be good, consistent reflectors while Natural Objects (like icebergs) reflect more randomly"
+
+
+https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf diff convolutional networks
+
+
+
+
+
+
+program 
+Friday10thNovember
+Kl. 13.15 	Registration, attendance and lunch in Kjelkantina.
+Kl. 14.15–15.15	Introduction and opening of caseat Fram.Contest background / Satellite data/Kaggle and ML tips and hints
+Kl. 15.15-	Teams are to be assigned group rooms and start working on the case. Representatives from Statoil are at your disposal. Hosts from Start NTNU will be available until ca. 22.00, but the teams are welcome to stay longer.Kl. 18.30 Dinner is served at Fram.
+
+Saturday11thNovember
+Kl. 08.00 	Hosts from Start NTNU will be at Fram and available for teams. Breakfast and lunch will be served and can be eaten at any time.Statoil will attend / be reached byphone for questions
+Kl. 17.00 	Hosts from Start NTNU will leave Fram, but will be available through telephone.Dinner is served at Fram around 17.00. 
+
+Sunday12thNovember
+Kl. 08.00	Hosts from Start NTNU will be at Fram and available for teams. Breakfast and lunch will be served and can be eaten at any time.Statoil will attend / be reachedbyphone/skypefor questions
+Kl. 14.00	Deadline for submitting code, and gathering in the common areas to announce the winning team.
+Kl. 14.15–15.00	Preparation of a short presentation, where each group explains the method used and what they proposed as a solution.
+Kl. 15.00–17.00	Presentation by each team, followed by mingling with food and drinksserve

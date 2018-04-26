@@ -1,0 +1,87 @@
+# Parameters
+dimentions = (75, 75)
+learning_rate = 1e-4
+keep_prob1 = 1.0
+keep_prob2 = 1.0
+
+batch_size = 15
+num_iter = 20
+
+# conv1
+conv1_f = 5
+conv1_num_filters = 15
+
+# conv2
+conv2_f = 5
+conv2_num_filters = 30
+
+num_hidden_fc1 = 1000
+num_hidden_fc2 = 100
+num_hidden_fc3 = 2
+
+
+-------80%---------
+
+# Parameters
+dimentions = (75, 75)
+learning_rate = 1e-4
+keep_prob1 = 0.8
+keep_prob2 = 0.8
+
+batch_size = 15
+num_iter = 50
+
+# conv1
+conv1_f = 5
+conv1_num_filters = 15
+
+# conv2
+conv2_f = 5
+conv2_num_filters = 30
+
+num_hidden_fc1 = 1000
+num_hidden_fc2 = 100
+num_hidden_fc3 = 2
+
+
+-------87%---------
+
+# Parameters
+dimentions = (75, 75)
+learning_rate = 1e-4
+keep_prob1 = 0.8
+keep_prob2 = 0.8
+
+batch_size = 15
+num_iter = 75
+
+# conv1
+conv1_f = 5
+conv1_num_filters = 15
+
+# conv2
+conv2_f = 5
+conv2_num_filters = 30
+
+num_hidden_fc1 = 1000
+num_hidden_fc2 = 100
+num_hidden_fc3 = 2
+
+-------70%---------
+# Parameters
+dimentions = (75, 75)
+learning_rate = 1e-4
+keep_prob1 = 0.8
+keep_prob2 = 0.8
+batch_size = 15
+num_iter = 55
+# conv1
+conv1_f = 5
+conv1_num_filters = 15
+# conv2
+conv2_f = 5
+conv2_num_filters = 30
+num_hidden_fc1 = 1000
+num_hidden_fc2 = 100
+num_hidden_fc3 = 2
+-------74%---------
